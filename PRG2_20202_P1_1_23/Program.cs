@@ -10,6 +10,8 @@ namespace PRG2_20202_P1_1_23
     {
         static void Main(string[] args)
         {
+            //Hallo
+            //Heyoo
             Console.WriteLine("Hello World from Visual Studio, I'm 0320200023!");
         }
     }
